@@ -1,0 +1,63 @@
+html, body, p, h1{
+    margin:0;
+    padding:0;
+}
+#header,#footer {
+    text-align: center;
+    background-color: silver;
+    padding: 8px;
+}
+#header{
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+}
+div#content {
+    width: 1000px;
+    margin: auto;
+}
+.errorMessage {
+    color: red;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+a {
+    color: black;
+}
+#model {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 15px;
+}
+.title {
+    font-size: 18px;
+    font-weight: bold;
+}
+.author {
+    font-style: italic;
+}
+.title,.author{
+    margin-bottom: 5px; 
+}
+p {
+    text-justify: initial;
+    text-align: justify;
+}
+.row.buttons,.button-dialog{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.book{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+}
+input.delete {
+    font-size: 18px;
+}
+label.required {
+width: 150px;
+float: left;
+}

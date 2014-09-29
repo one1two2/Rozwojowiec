@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>rozwojowiec/protected/views/layouts/main.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/yii/rozwojowiec/protected/views/site/book.php</file>
+            <file>file:/C:/xampp/htdocs/yii/rozwojowiec/protected/views/site/books.php</file>
+            <file>file:/C:/xampp/htdocs/yii/rozwojowiec/protected/views/site/add.php</file>
+            <file>file:/C:/xampp/htdocs/yii/rozwojowiec/protected/models/BookForm.php</file>
+            <file>file:/C:/xampp/htdocs/yii/rozwojowiec/protected/controllers/SiteController.php</file>
+            <file>file:/C:/xampp/htdocs/yii/rozwojowiec/protected/views/site/delete.php</file>
+            <file>file:/C:/xampp/htdocs/yii/rozwojowiec/protected/views/layouts/main.php</file>
+            <file>file:/C:/xampp/htdocs/yii/rozwojowiec/js/books.js</file>
+            <file>file:/C:/xampp/htdocs/yii/rozwojowiec/protected/config/main.php</file>
+        </group>
+    </open-files>
+</project-private>
